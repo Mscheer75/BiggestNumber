@@ -19,11 +19,11 @@ int main()
 
  if(n1>=n2)
     {
-  cout<<"Of those two numbers, the biggest is: " << n1<< endl;
+  cout<<"Of those two numbers, the biggest is: " << n1;
     }
     else
     {
-    cout<<"of those two numbers, the biggest is:" << n2<< endl;
+    cout<<"of those two numbers, the biggest is:" << n2;
     }
   cout<<endl<<"Thank you for playing.\n";
 
