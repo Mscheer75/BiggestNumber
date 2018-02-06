@@ -23,7 +23,7 @@ int main()
     }
     else
     {
-    cout<<"Of those two numbers, the biggest is :" << n2;
+    cout<<"Of those two numbers, the biggest is: " << n2;
     }
   cout<<endl<<"Thank you for playing.\n";
 
